@@ -1,7 +1,7 @@
 accessflags
 ===========
 
-packcage `accessflags` is Martini handler to enable Access Control, such as role-based access control support, Through an flag of integer kind.
+packcage `accessflags` is Martini handler to enable Access Control, such as role-based access control support, Through an integer flag.
 
 [API Reference](http://gowalker.org/martini-contrib/accessflags)
 
