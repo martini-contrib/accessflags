@@ -1,5 +1,4 @@
-accessflags
-===========
+# accessflags [![wercker status](https://app.wercker.com/status/41eabb68b7b41be396b33cd08c0b6daa/s/ "wercker status")](https://app.wercker.com/project/bykey/41eabb68b7b41be396b33cd08c0b6daa)
 
 `accessflags` is a Martini handler to enable Access Control, such as role-based access control support, through an integer flag.
 
